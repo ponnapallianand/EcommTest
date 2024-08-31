@@ -11,23 +11,23 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="container-fluid">
-        <a className="navbar-brand" href="#">
+        <a className="navbar-brand" href="https://www.youtube.com/">
           Navbar
         </a>
         <div className={`navbar-collapse ${isOpen ? 'show' : ''}`} id="navbarSupportedContent">
           <ul className="navbar-nav">
             <li className="nav-item">
-              <a className="nav-link active" aria-current="page" href="#">
+              <a className="nav-link active" aria-current="page" href="https://www.youtube.com/">
                 Home
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="https://www.youtube.com/">
                 Link
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link disabled" aria-disabled="true" href="#">
+              <a className="nav-link disabled" aria-disabled="true" href="https://www.youtube.com/">
                 Disabled
               </a>
             </li>

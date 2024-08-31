@@ -67,7 +67,7 @@
     },
 
     {
-        "id": 1,
+        "id": 7,
         "name": "Wireless Headphones",
         "description": "High-quality wireless headphones with noise cancellation and long battery life.",
         "category": "Electronics",
@@ -78,7 +78,7 @@
         "stock": 25
     },
     {
-        "id": 2,
+        "id": 8,
         "name": "Smartwatch",
         "description": "Advanced smartwatch with fitness tracking, heart rate monitoring, and GPS.",
         "category": "Wearables",
@@ -89,7 +89,7 @@
         "stock": 50
     },
     {
-        "id": 3,
+        "id": 9,
         "name": "Bluetooth Speaker",
         "description": "Portable Bluetooth speaker with deep bass and waterproof design.",
         "category": "Audio",
@@ -100,7 +100,7 @@
         "stock": 15
     },
     {
-        "id": 4,
+        "id": 10,
         "name": "Running Shoes",
         "description": "Lightweight running shoes with excellent grip and comfort.",
         "category": "Footwear",
@@ -111,7 +111,7 @@
         "stock": 30
     },
     {
-        "id": 5,
+        "id": 11,
         "name": "Digital Camera",
         "description": "High-resolution digital camera with 4K video recording and zoom lens.",
         "category": "Photography",
@@ -122,7 +122,7 @@
         "stock": 10
     },
     {
-        "id": 6,
+        "id": 12,
         "name": "TV",
         "description": "High-resolution tv with 4K video recording and zoom lens.",
         "category": "Movies HD",
@@ -133,7 +133,7 @@
         "stock": 10
     },
     {
-        "id": 1,
+        "id": 13,
         "name": "Wireless Headphones",
         "description": "High-quality wireless headphones with noise cancellation and long battery life.",
         "category": "Electronics",
@@ -144,7 +144,7 @@
         "stock": 25
     },
     {
-        "id": 2,
+        "id": 14,
         "name": "Smartwatch",
         "description": "Advanced smartwatch with fitness tracking, heart rate monitoring, and GPS.",
         "category": "Wearables",
@@ -155,7 +155,7 @@
         "stock": 50
     },
     {
-        "id": 3,
+        "id": 15,
         "name": "Bluetooth Speaker",
         "description": "Portable Bluetooth speaker with deep bass and waterproof design.",
         "category": "Audio",
@@ -166,7 +166,7 @@
         "stock": 15
     },
     {
-        "id": 4,
+        "id": 16,
         "name": "Running Shoes",
         "description": "Lightweight running shoes with excellent grip and comfort.",
         "category": "Footwear",
@@ -177,7 +177,7 @@
         "stock": 30
     },
     {
-        "id": 5,
+        "id": 17,
         "name": "Digital Camera",
         "description": "High-resolution digital camera with 4K video recording and zoom lens.",
         "category": "Photography",
@@ -188,7 +188,7 @@
         "stock": 10
     },
     {
-        "id": 6,
+        "id": 18,
         "name": "TV",
         "description": "High-resolution tv with 4K video recording and zoom lens.",
         "category": "Movies HD",
@@ -199,7 +199,7 @@
         "stock": 10
     },
     {
-        "id": 1,
+        "id": 19,
         "name": "Wireless Headphones",
         "description": "High-quality wireless headphones with noise cancellation and long battery life.",
         "category": "Electronics",
@@ -210,7 +210,7 @@
         "stock": 25
     },
     {
-        "id": 2,
+        "id": 20,
         "name": "Smartwatch",
         "description": "Advanced smartwatch with fitness tracking, heart rate monitoring, and GPS.",
         "category": "Wearables",
@@ -221,7 +221,7 @@
         "stock": 50
     },
     {
-        "id": 3,
+        "id": 21,
         "name": "Bluetooth Speaker",
         "description": "Portable Bluetooth speaker with deep bass and waterproof design.",
         "category": "Audio",
@@ -232,7 +232,7 @@
         "stock": 15
     },
     {
-        "id": 4,
+        "id": 22,
         "name": "Running Shoes",
         "description": "Lightweight running shoes with excellent grip and comfort.",
         "category": "Footwear",
@@ -243,7 +243,7 @@
         "stock": 30
     },
     {
-        "id": 5,
+        "id": 23,
         "name": "Digital Camera",
         "description": "High-resolution digital camera with 4K video recording and zoom lens.",
         "category": "Photography",
@@ -254,7 +254,7 @@
         "stock": 10
     },
     {
-        "id": 6,
+        "id": 24,
         "name": "TV",
         "description": "High-resolution tv with 4K video recording and zoom lens.",
         "category": "Movies HD",
